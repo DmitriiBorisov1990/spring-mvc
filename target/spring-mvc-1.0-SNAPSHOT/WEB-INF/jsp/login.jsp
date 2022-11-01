@@ -4,6 +4,7 @@
     <title>Login</title>
 </head>
 <body>
+    <span>${gender}</span>
     <form action="${pageContext.request.contextPath}/api/v1/login" method="post">
         <label for="username">Username</label>
         <input id="username" type="text" name="username"><br>

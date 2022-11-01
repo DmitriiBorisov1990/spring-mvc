@@ -1,4 +1,4 @@
-package by.borisov.springweb.servise;
+package by.borisov.springweb.service;
 
 import by.borisov.springweb.dto.LoginDto;
 import by.borisov.springweb.dto.UserDto;
